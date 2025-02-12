@@ -45,5 +45,4 @@ This front-end is a solid foundation for building a fully functional e-learning 
 
 OUTPUT
 
-                ![Image](https://github.com/user-attachments/assets/ef573a94-310a-49eb-8a06-bb25656c3c09)
-                
+![Image](https://github.com/user-attachments/assets/ef573a94-310a-49eb-8a06-bb25656c3c09)                
